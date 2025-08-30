@@ -58,7 +58,7 @@ params = st.query_params
 if "home" in params:
     st.session_state["show_home"] = True
 if "show_home" not in st.session_state:
-    st.session_state["show_home"] = False
+    st.session_state["show_home"] = True
 
 # Home (landing) page
 if st.session_state["show_home"]:

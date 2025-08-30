@@ -1,0 +1,10 @@
+[theme]
+base="dark"
+primaryColor="#8B5CF6"        # violet néon
+backgroundColor="#0F172A"     # ardoise sombre
+secondaryBackgroundColor="#1E1B2E"  # cartes violettes foncées
+textColor="#E5E7EB"
+font="sans serif"
+
+[browser]
+gatherUsageStats = false 

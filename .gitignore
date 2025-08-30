@@ -14,7 +14,8 @@ venv/
 .env.*
 
 # Streamlit cache
-.streamlit/
+/.streamlit/
+!finsight_ai/.streamlit/
 
 # Data / models (optional, keep if large or private)
 /data/

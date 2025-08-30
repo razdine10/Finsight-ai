@@ -1,5 +1,7 @@
 # Finsight AI
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/razdine10/Finsight-ai/main/finsight_ai/app.py)
+
 AI-first AML and finance analytics built with Streamlit. Explore data, detect fraud and anomalies, forecast trends, and assess risk with clean, fast UX.
 
 ## Features
